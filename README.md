@@ -66,3 +66,19 @@ Predicts the probability of a delivery being delayed.
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+
+---
+
+## 📸 Demo
+
+> Add screenshots in the `images/` folder, then they will display here.
+
+![App Home](images/app_home.png)
+![Prediction Example](images/app_example.png)
+
+---
+
+## 👨‍💻 Author
+
+**Daniel Diala**  
+GitHub: https://github.com/dd4real2k
