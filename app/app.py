@@ -93,7 +93,7 @@ def load_dropdown_options():
 left, right = st.columns([0.7, 0.3])
 
 with left:
-    st.title("🚚 DeliveryOs Intelligence System")
+    st.title("🚚 DeliveryOps Intelligence System")
     st.caption("Predict delivery time and delay risk using machine learning")
 
 with right:
